@@ -1,6 +1,6 @@
 # WebApplication9-WebSetup
 
-Buil log:
+Build log:
 
 1>------ Build started: Project: WebApplication9, Configuration: Debug Any CPU ------
 1>WebApplication9 -> E:\VisualStudioProjects\WebApplication9\WebApplication9\bin\Debug\netcoreapp3.1\WebApplication9.dll
